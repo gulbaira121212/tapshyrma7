@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ky">
+<head>
+    <meta charset="UTF-8">
+    <title>Менин Биринчи Веб-Баракчам</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 30px;
+        }
+        img {
+            width: 300px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Салам дүйнө!</h1>
+    <p>Бул менин биринчи HTML баракчам.</p>
+    <img src="https://www.example.com/image.jpg" alt="Мисал сүрөт">
+</body>
+</html>
+
